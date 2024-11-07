@@ -1,5 +1,7 @@
-# OO code using turtle graphics
-- From the starting code, polygon_art.py, you are to write an OO program that generates different pieces of art works
-- Fork, then, clone this repo
-- Read the instructions given in the course's Google Classroom and start coding
-- Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+# How to run the program
+-Run the code
+-Write the number from 1-9(whatever you want)
+-The code will run & show the shape for each choice you write
+# Problem that found during wirting the code
+-Spend much time to change all the code to OOP
+-Confused between the code
